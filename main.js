@@ -1,4 +1,3 @@
-// Deaktivieren des Scrollens
 document.body.classList.add("no-scroll");
 
 setTimeout(function () {
